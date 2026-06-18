@@ -1,0 +1,25 @@
+{
+  "name": "doubao-vision-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP server for Doubao vision models via Volcengine Ark API",
+  "type": "module",
+  "main": "src/index.js",
+  "bin": {
+    "doubao-vision-mcp-server": "src/index.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": ["mcp", "doubao", "vision", "volcengine", "ark", "ark"],
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.9.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
