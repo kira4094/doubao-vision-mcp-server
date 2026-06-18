@@ -147,7 +147,7 @@ node src/index.js
 | 类型 | DOUBAO_MODEL | Token 消耗 | 状态 |
 |------|-------------|-----------|------|
 | 预置推理接入点 | `doubao-seed-2-0-mini-260428` | 1314 in → 295 out | ✅ |
-| 模型推理接入点 | `ep-20260607213851-t66sq` | 683 in → 277 out | ✅ |
+| 模型推理接入点 | `ep-xxxxxxx-xxxxx` | 683 in → 277 out | ✅ |
 
 ## 关联项目
 
