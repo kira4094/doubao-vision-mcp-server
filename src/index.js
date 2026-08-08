@@ -20,7 +20,7 @@ const BASE_URL =
   process.env.DOUBAO_BASE_URL || "https://ark.cn-beijing.volces.com/api/v3";
 const VISION_MODEL = process.env.DOUBAO_MODEL || "doubao-seed-2-0-mini-260428";
 const SEEDREAM_MODEL =
-  process.env.SEEDREAM_MODEL || "doubao-seedream-3-0-t2i-250415";
+  process.env.SEEDREAM_MODEL || "doubao-seedream-5-0-lite-260128";
 const SEEDREAM_I2I_MODEL =
   process.env.SEEDREAM_I2I_MODEL || "doubao-seededit-3-0-i2i-250628";
 const SEEDANCE_MODEL =
