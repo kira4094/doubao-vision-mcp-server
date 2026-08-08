@@ -1,6 +1,6 @@
 {
   "name": "doubao-vision-mcp-server",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "MCP server for Doubao vision models via Volcengine Ark API",
   "type": "module",
   "main": "src/index.js",
